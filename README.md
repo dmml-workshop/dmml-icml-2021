@@ -1,2 +1,1 @@
-# dmml-icml-2021
-ICML 2021 edition of the DMML workshop 
+This repo contains materials for ICML 2021 edition of "Challenges in Deploying and monitoring Machine Learning Systems" workshop
